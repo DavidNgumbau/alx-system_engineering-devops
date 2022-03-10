@@ -1,3 +1,3 @@
 # alx-system_engineering-devops
 Shell Basics.
-Short projects scripting. Commands included in files.
+Short projects on scripting. Commands included in files.
